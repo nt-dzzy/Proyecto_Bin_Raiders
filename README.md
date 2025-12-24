@@ -30,5 +30,6 @@ de cámara para supervisión visual del contenedor.
 - Benjamin Gomez
 - Nelson Ramirez
 
+El proyecto incluye código para Raspberry Pi ubicado en la carpeta /raspberry.
 
 
