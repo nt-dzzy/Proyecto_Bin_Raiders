@@ -46,9 +46,12 @@ Aplicación Android desarrollada con \*\*Jetpack Compose\*\* que permite:
 
 
 
-\## 👨‍🎓 Autor
+\## 👨‍🎓 Autores
 
 \- Jhon Alarcón
+\- Andre Guerra
+\- Benjamin Gomez
+\- Nelson Ramirez
 
 
 
