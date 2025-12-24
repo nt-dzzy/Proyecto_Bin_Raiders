@@ -34,7 +34,7 @@ Aplicación Android desarrollada con \*\*Jetpack Compose\*\* que permite:
 
 \- GitHub
 
-\- IoT (sensor ultrasónico – simulado)
+\- IoT 
 
 
 
