@@ -1,57 +1,34 @@
-\# Proyecto Bin Raiders ♻️
+# Proyecto II – Bin Raiders
 
+## Descripción
+Sistema de monitoreo de contenedores de basura mediante una aplicación Android,
+que permite visualizar el estado del basurero (vacío, medio, lleno) a partir
+de la medición de distancia de un sensor ultrasónico (simulado).
 
+La aplicación considera acceso por roles (cliente y administrador) y una vista
+de cámara para supervisión visual del contenedor.
 
-Proyecto desarrollado para la asignatura IoT / Aplicaciones Móviles – UTA.
+## Funcionalidades
+- Visualización de contenedores
+- Medición de distancia (sensor ultrasónico simulado)
+- Estado del contenedor (vacío / medio / lleno)
+- Acceso por roles (cliente / administrador)
+- Vista de cámara (demo)
+- Actualización manual del estado
 
+## Tecnologías utilizadas
+- Kotlin
+- Android Studio
+- Jetpack Compose
+- Retrofit
+- GitHub
+- IoT (sensor ultrasónico – simulado)
 
-
-\##  Descripción
-
-Aplicación Android desarrollada con \*\*Jetpack Compose\*\* que permite:
-
-\- Visualizar contenedores de basura
-
-\- Monitorear estado (vacío / medio / lleno)
-
-\- Medición de distancia mediante sensor ultrasónico (simulado)
-
-\- Acceso por roles (cliente / administrador)
-
-\- Vista de cámara (demo)
-
-
-
-\##  Tecnologías
-
-\- Kotlin
-
-\- Jetpack Compose
-
-\- Retrofit
-
-\- Android Studio
-
-\- GitHub
-
-\- IoT 
-
-
-
-\##  Problemas conocidos
-
-\- El sensor ultrasónico presentó inestabilidad física
-
-\- Se utilizó simulación para asegurar continuidad del sistema
-
-
-
-\##  Autores
-
-\- Jhon Alarcón
-\- Andre Guerra
-\- Benjamin Gomez
-\- Nelson Ramirez
+## Integrantes
+- Jhon Alarcón
+- Andre Guerra
+- Benjamin Gomez
+- Nelson Ramirez
 
 
 
