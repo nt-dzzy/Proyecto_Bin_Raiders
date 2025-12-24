@@ -6,7 +6,7 @@ Proyecto desarrollado para la asignatura IoT / Aplicaciones Móviles – UTA.
 
 
 
-\## 📱 Descripción
+\##  Descripción
 
 Aplicación Android desarrollada con \*\*Jetpack Compose\*\* que permite:
 
@@ -22,7 +22,7 @@ Aplicación Android desarrollada con \*\*Jetpack Compose\*\* que permite:
 
 
 
-\## 🛠️ Tecnologías
+\##  Tecnologías
 
 \- Kotlin
 
@@ -38,7 +38,7 @@ Aplicación Android desarrollada con \*\*Jetpack Compose\*\* que permite:
 
 
 
-\## ⚠️ Problemas conocidos
+\##  Problemas conocidos
 
 \- El sensor ultrasónico presentó inestabilidad física
 
@@ -46,7 +46,7 @@ Aplicación Android desarrollada con \*\*Jetpack Compose\*\* que permite:
 
 
 
-\## 👨‍🎓 Autores
+\##  Autores
 
 \- Jhon Alarcón
 \- Andre Guerra
