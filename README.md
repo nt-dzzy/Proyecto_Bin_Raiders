@@ -13,7 +13,7 @@ de cámara para supervisión visual del contenedor.
 - Medición de distancia (sensor ultrasónico simulado)
 - Estado del contenedor (vacío / medio / lleno)
 - Acceso por roles (cliente / administrador)
-- Vista de cámara (demo)
+- Vista de cámara
 - Actualización manual del estado
 
 ## Tecnologías utilizadas
