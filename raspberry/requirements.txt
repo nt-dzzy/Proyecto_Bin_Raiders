@@ -1,0 +1,3 @@
+grovepi
+opencv-python
+requests
