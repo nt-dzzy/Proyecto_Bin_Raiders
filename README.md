@@ -22,7 +22,7 @@ de cámara para supervisión visual del contenedor.
 - Jetpack Compose
 - Retrofit
 - GitHub
-- IoT (sensor ultrasónico – simulado)
+- IoT 
 
 ## Integrantes
 - Jhon Alarcón
