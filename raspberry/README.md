@@ -2,8 +2,8 @@
 
 ## Descripción
 Scripts desarrollados en Python para la Raspberry Pi,
-encargados de la lectura del sensor ultrasónico y la simulación
-de datos enviados a la aplicación Android.
+encargados de la lectura del sensor ultrasónico y el
+envio de datos a la aplicación Android.
 
 ## Funcionalidades
 - Lectura de distancia del sensor ultrasónico
